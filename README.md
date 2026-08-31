@@ -34,7 +34,7 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
 **Frameworks y librerías**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,spring,django,flask,flutter,bootstrap,tailwind&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,spring,django,flask,bootstrap,tailwind&theme=dark" alt="Frameworks" />
 </p>
 
 **Bases de datos**
