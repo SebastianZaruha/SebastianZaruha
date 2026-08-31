@@ -28,7 +28,7 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
 **Lenguajes**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,dart&theme=dark" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py&theme=dark" alt="Lenguajes" />
 </p>
 
 **Frameworks y librerías**
