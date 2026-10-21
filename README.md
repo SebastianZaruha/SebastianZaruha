@@ -72,23 +72,10 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
 </div>
 
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SebastianZaruha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SebastianZaruha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
----
 
 ## 🤝 Contacto
 
 <p align="center">
-  <a href="https://github.com/SebastianZaruha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/sebastianzaruha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
