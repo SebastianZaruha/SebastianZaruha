@@ -20,6 +20,8 @@ Desarrollador fullstack junior con formación en **Desarrollo de Aplicaciones Mu
 
 Me interesa seguir creciendo en entornos colaborativos donde pueda aportar valor mientras continúo aprendiendo.
 
+Antes de programar me formé en arquitectura, y eso me dejó una forma de pensar propia: analizar antes de construir, cuidar el diseño y tener en cuenta el impacto real de cada decisión en la vida del usuario
+
 Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir software claro, mantenible y pensado para el usuario.
 
 
@@ -66,14 +68,14 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
+| [Reloj de Arena](https://github.com/SebastianZaruha/reloj-de-arena) | App Pomodoro y temporizador con un reloj de arena real y control por gestos | React Native · Expo · Skia · TypeScript |
 | [EventMeet](https://github.com/SebastianZaruha/EventMeet) | Web para crear y encontrar planes cerca de ti | TypeScript |
+| [Portfolio](https://sebastianzaruha.com/) | Mi web personal | HTML · CSS · JS |
 | [PokeApi](https://github.com/SebastianZaruha/PokeApi) | Consumo de API y práctica frontend | TypeScript |
-| [Practica-Pantallas-Flutter](https://github.com/SebastianZaruha/Practica-Pantallas-Flutter) | Práctica de interfaces con Flutter | Dart / Flutter |
-| [Portfolio](https://sebastianzaruha.github.io/) | Página personal | HTML |
 
 </div>
 
-
+---
 
 ## 🤝 Contacto
 
@@ -85,3 +87,5 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<h4 align="center"><sub>🇬🇧 Junior full stack developer (Python, React, TypeScript) building apps end to end with a strong eye for design. Open to remote or hybrid roles in Madrid.</sub></h4>
