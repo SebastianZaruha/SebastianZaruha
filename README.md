@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sebastianzaruha.github.io/">Portfolio</a>
+  <a href="https://sebastianzaruha.com/">Portfolio</a>
   ·
   <a href="https://github.com/SebastianZaruha">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/sebastianzaruha/">LinkedIn</a>
 </p>
 
 ---
@@ -79,7 +81,7 @@ Ahora mismo busco aportar en proyectos reales, seguir aprendiendo y construir so
   <a href="https://www.linkedin.com/in/sebastianzaruha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sebastianzaruha.github.io/">
+  <a href="https://sebastianzaruha.com/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
